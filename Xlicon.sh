@@ -1,0 +1,1 @@
+echo mzn-pair
