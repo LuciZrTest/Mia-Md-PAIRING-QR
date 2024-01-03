@@ -1,1 +1,1 @@
-echo mzn-pair
+echo Xlicon
