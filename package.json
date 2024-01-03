@@ -2,11 +2,11 @@
   "name": "Xlicon-session",
   "version": "1.0.0",
   "description": "session id Generator for xlicon multi device bot",
-  "main": "mzn-pair.js",
+  "main": "Xlicon.js",
   "scripts": {
     "start": "node ."
   },
-  "author": "MZN KING",
+  "author": "Salman Ahmad",
   "license": "",
   "dependencies": {
     "@whiskeysockets/baileys": "^6.4.0",
