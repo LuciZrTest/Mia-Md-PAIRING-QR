@@ -1,12 +1,12 @@
 {
-  "name": "Xlicon-session",
+  "name": "Mia-session",
   "version": "1.0.0",
   "description": "session id Generator for xlicon multi device bot",
-  "main": "Xlicon.js",
+  "main": "Mia.js",
   "scripts": {
     "start": "node ."
   },
-  "author": "Salman Ahmad",
+  "author": "LuciZR",
   "license": "",
   "dependencies": {
     "@whiskeysockets/baileys": "^6.4.0",
